@@ -1,0 +1,10 @@
+.footer__link{
+  font-size: 16px;
+  line-height:1.1em;
+  font-weight:normal;
+  color:#FFFFFF ;
+  width: 90%;
+  text-align: start;
+  margin: 32px auto 0;
+  text-decoration: none;
+}

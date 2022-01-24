@@ -1,0 +1,10 @@
+.cover{
+  background-image: url(../../../images/cover-image.png);
+  background-size: cover;
+  object-fit:cover ;
+  object-position:bottom;
+  display: flex;
+  flex-direction: column;
+  margin-top: 99px ;
+  min-height: 200px;
+}

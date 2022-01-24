@@ -1,0 +1,10 @@
+.website__url-heading{
+  text-decoration: none;
+  font-size: 12px;
+  line-height:1em;
+  font-weight:normal;
+  color:#AAAAAA ;
+  width: 90%;
+  text-align: start;
+  margin: 32px auto 0;
+}
