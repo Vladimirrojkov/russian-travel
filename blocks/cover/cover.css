@@ -1,10 +1,16 @@
 .cover{
-  background-image: url(../../../images/cover-image.png);
-  background-size: cover;
-  object-fit:cover ;
-  object-position:bottom;
-  display: flex;
-  flex-direction: column;
-  margin-top: 99px ;
-  min-height: 200px;
+  position: relative;
+  
+  margin: 99px auto 0 ;
+  width:100% ;
+  
+}
+
+@media screen and (min-width: 1280px) {
+  .cover{
+    position: relative;
+    width:92.258% ;
+    height: 750px;
+
+  }
 }

@@ -1,3 +1,12 @@
 .photo-grid__item{
   width: 90%;
+  height: 216px;
+  object-fit:cover;
+  object-position: center;
+}
+
+@media screen and (min-width: 768px) {
+  .photo-grid__item{
+    width: 100%;
+  }
 }
