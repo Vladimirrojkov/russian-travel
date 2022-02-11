@@ -2,11 +2,11 @@
   display: flex;
   background:url(../../../../images/cover-image.png) no-repeat center /cover;
   min-height: 200px;
-  display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   position: relative;
+  text-decoration: none;
 }
 .cover::after{
   content: "";

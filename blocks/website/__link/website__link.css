@@ -2,10 +2,14 @@
   font-size: 18px;
   line-height:1.2em;
   font-weight:normal;
-  color:#FFFFFF ;
+  color:#FFFFFF;
   width: 90%;
   text-align: start;
   margin: 12px auto 0;
+}
+
+.website__link:hover{
+  opacity: .8;
 }
 
 

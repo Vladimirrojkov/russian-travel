@@ -1,33 +1,30 @@
 .place__image{
   width: 100%;
-  padding-bottom: 100% ;
+  height: 320px;
+  object-fit: cover;
   object-position: center;
-  background-size: cover;
-}
+  
 
-  
-  
-  /*margin-top: 32px;
-  object-fit:cover;
-  object-position: center;
 }
 
 @media screen and (min-width: 768px) {
   .place__image{
-    margin-top: 0;
-    /*max-width: 340px;*/
+   height: 346px;
+  }
+}
+
     
  
 @media screen and (min-width: 1024px) {
-  place__image{
-    max-width: 440px;
-    
+  .place__image{
+    min-width: 440px;
+    height: 440px;
   }
 }
 
   @media screen and (min-width: 1240px) {
-    place__image{
-      max-width: 480px;
-      
+    .place__image{
+      min-width: 480px;
+      height:480px ;
     }
   }

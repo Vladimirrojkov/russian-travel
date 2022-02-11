@@ -1,10 +1,10 @@
 @media screen and (min-width: 768px) {
 .place{
   display: grid;
-  gap:48px 28px ;
+  gap: 48px 28px;
   grid-template-columns: repeat(2 ,1fr);
   grid-template-rows: auto;
-  margin-bottom: 72px ;
+  margin-bottom: 72px;
   width: 100%;
   object-fit: cover;
   object-position: center;
@@ -13,14 +13,14 @@
 
 @media screen and (min-width: 1024px) {
   .place{
-    gap:48px 32px ;
-    margin-bottom: 80px ;
+    gap: 48px 32px;
+    margin-bottom: 80px;
   }
 }
 
 @media screen and (min-width: 1240px) {
   .place{
-    gap:48px 40px ;
+    gap: 48px 40px;
     
   }
 }

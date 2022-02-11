@@ -2,7 +2,7 @@
   display: grid;
   justify-items: center;
   object-fit: cover;
-  gap:12px ;
+  gap: 12px;
   grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
   grid-template-rows: auto;
   margin: 64px auto 0;
