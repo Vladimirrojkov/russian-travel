@@ -1,6 +1,6 @@
 .cover{
   display: flex;
-  background:url(../../../../images/cover-image.png) no-repeat center /cover;
+  background:url(../../../../images/cover-image.jpg) no-repeat center /cover;
   min-height: 200px;
   justify-content: center;
   align-items: center;
