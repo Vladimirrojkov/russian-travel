@@ -1,27 +1,29 @@
-.places{
+.places {
   padding: 0;
-  list-style-type:none;
-  margin: 64px auto 0;
+  list-style-type: none;
+  margin: 64px auto 66px;
 }
-  
+
 @media screen and (min-width: 768px) {
-  .places{
+  .places {
     margin-top: 88px;
     width: 93.75%;
+    margin-bottom: 90px;
 
   }
 }
 
 @media screen and (min-width: 1024px) {
-  .places{
+  .places {
     margin-top: 92px;
     width: 90.625%;
+    margin-bottom: 92px;
   }
 }
 
-  @media screen and (min-width: 1240px){
-    .places{
-      width:76.875%;
-    
-    }
+@media screen and (min-width: 1240px) {
+  .places {
+    width: 76.875%;
+
+  }
 }

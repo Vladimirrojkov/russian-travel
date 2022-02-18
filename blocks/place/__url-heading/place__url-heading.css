@@ -1,17 +1,18 @@
-.website__url-heading{
+.place__url-heading {
   text-decoration: none;
   font-size: 12px;
-  line-height:1em;
-  font-weight:400;
-  color:#AAAAAA;
+  line-height: 1em;
+  font-weight: 400;
+  color: #AAAAAA;
   width: 90%;
   text-align: start;
+  letter-spacing: 2px;
   margin: 32px auto 0;
 }
 
 
 @media screen and (min-width: 768px) {
-  .website__url-heading{
+  .place__url-heading {
     margin: 0;
   }
 }
