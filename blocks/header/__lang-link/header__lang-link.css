@@ -10,10 +10,6 @@
   opacity: .8;
 }
 
-.header__lang-link:active {
-  text-decoration: underline;
-}
-
 .header__lang-link:nth-child(1) {
   margin-right: 18px;
 }

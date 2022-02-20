@@ -32,3 +32,4 @@
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/body/body.css);
 @import url(../blocks/intro/__span/intro__span.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
